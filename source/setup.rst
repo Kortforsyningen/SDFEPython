@@ -58,6 +58,11 @@ Den fulde vejledning
 Start med at Downloade `Mamba installationsprogrammet`_ og kør
 installationsprogrammet.
 
+.. note::
+
+    Edge-browseren forhindrer i mange tilfælde brugeren fra at downloade installationsprogrammet.
+    Typisk løses problemet ved at bruge en anden browser, fx Firefox.
+
 .. figure:: ./images/mamba-install-01.png
     :align: center
     :alt:   Mamba installation
